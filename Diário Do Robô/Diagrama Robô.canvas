@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"52e77ebbbd009a98","x":-128,"y":-36,"width":250,"height":60,"color":"6","type":"text","text":"# Raspberry Pi 4"},
+		{"id":"d7755496ee8741c7","x":-480,"y":-36,"width":250,"height":60,"color":"5","type":"text","text":"# Power Bank"},
+		{"id":"26704591add2d5d0","x":-280,"y":-280,"width":252,"height":80,"color":"2","type":"text","text":"# Interruptores e botões"},
+		{"id":"0491d97994523fcb","x":200,"y":-36,"width":250,"height":60,"color":"#002aff","type":"text","text":"# Arduino"},
+		{"id":"aaa4cc59b9516287","x":-85,"y":302,"width":165,"height":55,"color":"3","type":"text","text":"# Motores"},
+		{"id":"25b2de8abf117cc2","x":200,"y":300,"width":250,"height":57,"color":"4","type":"text","text":"# Baterías (Motor)"},
+		{"id":"3a0c21320dc30a5a","x":500,"y":302,"width":250,"height":60,"color":"#d93636","type":"text","text":"# Sensores"}
+	],
+	"edges":[
+		{"id":"0e5af1297c75aa6f","fromNode":"d7755496ee8741c7","fromSide":"right","toNode":"52e77ebbbd009a98","toSide":"left"},
+		{"id":"5393f5381a41be34","fromNode":"26704591add2d5d0","fromSide":"bottom","toNode":"d7755496ee8741c7","toSide":"right","toEnd":"none"},
+		{"id":"a777793d81535ed6","fromNode":"0491d97994523fcb","fromSide":"bottom","toNode":"aaa4cc59b9516287","toSide":"top"},
+		{"id":"565c2a1b2b7c0dc1","fromNode":"25b2de8abf117cc2","fromSide":"left","toNode":"aaa4cc59b9516287","toSide":"right"},
+		{"id":"f89057b79e776485","fromNode":"52e77ebbbd009a98","fromSide":"right","toNode":"0491d97994523fcb","toSide":"left"},
+		{"id":"7cccb41ba46e8cfb","fromNode":"0491d97994523fcb","fromSide":"bottom","toNode":"3a0c21320dc30a5a","toSide":"top"}
+	]
+}
