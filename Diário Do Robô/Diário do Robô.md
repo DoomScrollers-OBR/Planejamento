@@ -1,4 +1,4 @@
-**Relatório Técnico de Treinamento – Equipe Doomscrollers**
+**1º dia: Relatório Técnico de Treinamento – Equipe Doomscrollers**
 Data: Sábado, 23/05/2026 | Duração: 15:00h às 18:45h
 Participantes: João Serafim, Geovanny Dias, Carlos Daniel (Mentor).
 
@@ -18,8 +18,17 @@ Mapeamento Lógico: Elaboração de diagrama de blocos para documentar o fluxo d
 
 3. Execução Prática e Prototipagem
 Início da montagem física da iteração inicial do chassi (Versão 0.1), compreendendo o alinhamento dos eixos de tração e a fixação mecânica dos atuadores.
-**4. Próximos Passos (Plano de Ação para o próximo treino):**
+
+4. Próximos Passos (Plano de Ação para o próximo treino):
 
 - Geovanny Dias: Executar a montagem física da base motora para calibração do deslocamento em linha reta.
 
 - João Serafim: Iniciar o ambiente de desenvolvimento de visão computacional em ambiente de bancada (Python + OpenCV).
+
+3. Fotos do treino
+	![[Pasted image 20260526194145.png]] 
+
+
+**2º dia: Relatório Técnico de Treinamento – Equipe Doomscrollers;**
+Data: Segunda, 25/05/2026 | Duração: 17:40h às 19:15h;
+Participantes: João Serafim, Geovanny Dias.
