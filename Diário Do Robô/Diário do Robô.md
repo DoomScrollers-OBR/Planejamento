@@ -1,4 +1,4 @@
-**1º dia: Relatório Técnico de Treinamento – Equipe Doomscrollers**
+### **1º dia: Relatório Técnico de Treinamento – Equipe Doomscrollers**
 Data: Sábado, 23/05/2026 | Duração: 15:00h às 18:45h
 Participantes: João Serafim, Geovanny Dias, Carlos Daniel (Mentor).
 
@@ -26,12 +26,27 @@ Início da montagem física da iteração inicial do chassi (Versão 0.1), compr
 - João Serafim: Iniciar o ambiente de desenvolvimento de visão computacional em ambiente de bancada (Python + OpenCV).
 
 3. Fotos do treino
-	![[Pasted image 20260526194145.png]] 
+	![[Primeiro treino.png]] 
 
 
-**2º dia: Relatório Técnico de Treinamento – Equipe Doomscrollers;**
+### **2º dia: Relatório Técnico de Treinamento – Equipe Doomscrollers;**
 Data: Segunda, 25/05/2026 | Duração: 17:40h às 19:15h;
 Participantes: João Serafim, Geovanny Dias.
-teste
-sarafsdf
-afsdgag
+
+1. Execução prática, prototipagem e manutenção:
+
+Ajustes de partes quebradas do robô, além da adição de um ultrassônico em sua fronte, e deslocação dos motores para a dianteira.
+
+2. Planejamento para postagens no instagram
+	
+	- Post apresentando os competidores, com identidade visual semelhante à quadrinhos
+	
+	- Post de curiosidade sobre as mudanças na OBR
+
+3. Experimentação
+
+Testamos o módulo MPU6050, não tivemos sucesso na execução, mas aprendemos que ele é composto de um sensor giroscópio, acelerômetro e sensor de temperatura. Pretendemos usa-lo para compor um algorítmo de variação da velocidade, com a finalidade de auxiliar o robô nas rampas da competição.
+![[Módulo giroscópio e acelerômetro.png]]
+
+4. Registros fotográficos:
+![[Nosso robô.jpeg]]
