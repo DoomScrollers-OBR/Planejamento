@@ -32,3 +32,5 @@ Início da montagem física da iteração inicial do chassi (Versão 0.1), compr
 **2º dia: Relatório Técnico de Treinamento – Equipe Doomscrollers;**
 Data: Segunda, 25/05/2026 | Duração: 17:40h às 19:15h;
 Participantes: João Serafim, Geovanny Dias.
+teste
+sarafsdf
