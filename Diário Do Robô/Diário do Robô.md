@@ -26,7 +26,8 @@ Início da montagem física da iteração inicial do chassi (Versão 0.1), compr
 - João Serafim: Iniciar o ambiente de desenvolvimento de visão computacional em ambiente de bancada (Python + OpenCV).
 
 3. Fotos do treino
-	![[Primeiro treino.png]] 
+![primeiro treino, junto ao nosso robô](../assets/primeiro-treino.png)
+
 
 
 ### **2º dia: Relatório Técnico de Treinamento – Equipe Doomscrollers;**
@@ -46,7 +47,9 @@ Ajustes de partes quebradas do robô, além da adição de um ultrassônico em s
 3. Experimentação
 
 Testamos o módulo MPU6050, não tivemos sucesso na execução, mas aprendemos que ele é composto de um sensor giroscópio, acelerômetro e sensor de temperatura. Pretendemos usa-lo para compor um algorítmo de variação da velocidade, com a finalidade de auxiliar o robô nas rampas da competição.
-![[Módulo giroscópio e acelerômetro.png]]
+![módulo mpu6050, função de giroscópio, acelerômetro e termômetro](../assets/modulo-mpu6050.png)
+
 
 4. Registros fotográficos:
-![[Nosso robô.jpeg]]
+![nosso robô](../assets/nosso-robo.jpeg)
+
